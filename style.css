@@ -1,0 +1,29 @@
+body {
+    background-color: salmon;
+}
+
+#gaa {
+    background-attachment: fixed;
+}
+
+.hr {
+    width:450px;
+}
+.morbi {
+    background-attachment: fixed;
+    background-image: url(color_background_spot_65892_1920x1080.jpg);
+    color: black;
+}
+#saa{
+
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+#footer{
+    background-color: black;
+}#dss{
+    color: white;
+    margin-top: 500px;
+}
